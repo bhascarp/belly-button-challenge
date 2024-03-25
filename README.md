@@ -12,6 +12,7 @@ Below objects were created as per the requirements:
 
 The plots update when new subject ID selected in the dropdown.
 
-The app is deployed to the static github page. The link is provided.
+The app is deployed to the static github page. Below is the link to the page.
+https://bhascarp.github.io/belly-button-challenge/
 
 
